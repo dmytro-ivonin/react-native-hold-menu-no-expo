@@ -14,6 +14,7 @@ This is a fork of
 
 which is port of https://github.com/enesozturk/react-native-hold-menu but for React Native CLI (no EXPO).
 
+
 This particular fork is created to include fix of issue "Menu list items are pressable after close #76"
 https://github.com/enesozturk/react-native-hold-menu/pull/115
 
@@ -30,7 +31,7 @@ https://github.com/enesozturk/react-native-hold-menu/pull/115
 ## Installation
 
 ```sh
-yarn add @hadnet/react-native-hold-menu-no-expo
+https://github.com/dmytro-ivonin/react-native-hold-menu-no-expo.git
 ```
 
 ## Usage
