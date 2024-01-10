@@ -5,9 +5,19 @@
 [![npm](https://img.shields.io/badge/Types-included-blue?style=flat-square)](https://www.npmjs.com/package/@hadnet/react-native-hold-menu-no-expo)
 [![npm](https://img.shields.io/npm/dt/@hadnet/react-native-hold-menu-no-expo.svg?style=flat-square)](https://www.npmjs.com/package/@hadnet/react-native-hold-menu-no-expo)
 
-
-
 A performant, easy to use hold to open context menu for React Native CLI projects powered by Reanimated.
+
+# WARNING
+
+This is a fork of
+  https://github.com/hadnet/react-native-hold-menu-no-expo
+
+which is port of https://github.com/enesozturk/react-native-hold-menu but for React Native CLI (no EXPO).
+
+This particular fork is created to include fix of issue "Menu list items are pressable after close #76"
+https://github.com/enesozturk/react-native-hold-menu/pull/115
+
+
 
 ## Dependencies
 
