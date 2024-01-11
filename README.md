@@ -31,7 +31,7 @@ https://github.com/enesozturk/react-native-hold-menu/pull/115
 ## Installation
 
 ```sh
-https://github.com/dmytro-ivonin/react-native-hold-menu-no-expo.git
+npm install dmytro-ivonin/react-native-hold-menu-no-expo
 ```
 
 ## Usage
